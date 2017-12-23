@@ -2,7 +2,7 @@
 
 This repo contains my analysis for the solar irradiance of some European city (Don't remember which city is it exactly) which can be used to implement some solar panels to produce electricity for the city. The data is provided as an excel file called "solar_irradiance_original.csv" which is a ten-year data of the 24-hour solar irradiance over a certain area in that European city from 1998 till 2009.
 
-My Analysis is done using **MatLab**, but my visualization is done using Microsoft Excel. 
+My Analysis is done using **MatLab**, but my visualization is done using **Microsoft Excel**. 
 
 My analysis consists of three steps:
 
